@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/web/rce/ct-fshow-web-web29/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/web/rce/ct-fshow-web-web29/"}
 ---
 
 题目：
