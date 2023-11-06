@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/web//nssctf-2022-spring-recruit-ezgame/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/web//nssctf-2022-spring-recruit-ezgame/"}
 ---
 
 
